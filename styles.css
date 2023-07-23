@@ -1,0 +1,12 @@
+*{
+  color:#000;
+}
+.social-media{
+  width:30px;
+  height:auto;
+  
+  cursor:pointer;
+}
+.social-media:hover{
+   opacity: 0.4;
+}

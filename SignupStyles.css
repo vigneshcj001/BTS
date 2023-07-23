@@ -1,0 +1,17 @@
+.signup-container {
+  padding: 205px 50px 0px 100px;
+
+}
+
+.signup-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 64px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 19.2px;
+  color: #000;
+  margin-bottom: 20px;
+}
+

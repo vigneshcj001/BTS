@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto:wght@300;900&display=swap');
+.about-title{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 70px;
+  text-transform: uppercase;
+  letter-spacing: 19.2px;
+  text-align: center;
+  width: 100%;
+  opacity: 1;
+  padding: 0px 7px 20px 25px;
+}
+.about-content{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 25px;
+  font-weight:500;
+  padding: 20px 7px 50px 25px;
+}
